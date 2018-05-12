@@ -1,0 +1,24 @@
+_repo: The-Convict-s-Farewell--with-Advice-to-Criminals-before-and-after-Trial_33533
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33533-h/images/coverb.jpg
+creator:
+  author:
+    agent_name: Parkerson, James
+    gutenberg_agent_id: '35765'
+    url: http://www.gutenberg.org/2009/agents/35765
+description: ''
+gutenberg_issued: '2010-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33533'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+title: 'The Convict''s Farewell: with Advice to Criminals, before and after Trial'
+url: http://www.gutenberg.org/ebooks/33533
